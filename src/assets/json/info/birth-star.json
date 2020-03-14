@@ -1,0 +1,82 @@
+[{
+  "starId": 1,
+  "starName": "Ashwini"
+}, {
+  "starId": 2,
+  "starName": "Bharani"
+}, {
+  "starId": 3,
+  "starName": "Krithika"
+}, {
+  "starId": 4,
+  "starName": "Rohini"
+}, {
+  "starId": 5,
+  "starName": "Mrigasira"
+}, {
+  "starId": 6,
+  "starName": "Ardra"
+}, {
+  "starId": 7,
+  "starName": "Punarvasu"
+}, {
+  "starId": 8,
+  "starName": "Pushya"
+}, {
+  "starId": 9,
+  "starName": "Ashlesha"
+}, {
+  "starId": 10,
+  "starName": "Magha"
+}, {
+  "starId": 11,
+  "starName": "Purva Phalguni"
+}, {
+  "starId": 12,
+  "starName": "Uttara Phalguni"
+}, {
+  "starId": 13,
+  "starName": "Hastha"
+}, {
+  "starId": 14,
+  "starName": "Chitra"
+}, {
+  "starId": 15,
+  "starName": "Swati"
+}, {
+  "starId": 16,
+  "starName": "Vishaka"
+}, {
+  "starId": 17,
+  "starName": "Anuradha"
+}, {
+  "starId": 18,
+  "starName": "Jyestha"
+}, {
+  "starId": 19,
+  "starName": "Moola"
+}, {
+  "starId": 20,
+  "starName": "Purva Ashadha"
+}, {
+  "starId": 21,
+  "starName": "Shravana"
+}, {
+  "starId": 22,
+  "starName": "Uttarashada"
+}, {
+  "starId": 23,
+  "starName": "Dhanishta"
+}, {
+  "starId": 24,
+  "starName": "Shatabhisha"
+}, {
+  "starId": 25,
+  "starName": "Purva Bhadrapada"
+}, {
+  "starId": 26,
+  "starName": "Uttara Bhadrapada"
+}, {
+  "starId": 27,
+  "starName": "Revati"
+}]

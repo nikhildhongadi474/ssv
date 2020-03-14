@@ -1,0 +1,67 @@
+[{
+  "languageId": 1,
+  "languageName": "Kannada"
+}, {
+  "languageId": 2,
+  "languageName": "Telugu"
+}, {
+  "languageId": 3,
+  "languageName": "Tamil"
+}, {
+  "languageId": 4,
+  "languageName": "Hindi"
+}, {
+  "languageId": 5,
+  "languageName": "Tulu"
+}, {
+  "languageId": 6,
+  "languageName": "Kodava"
+}, {
+  "languageId": 7,
+  "languageName": "Malayalam"
+}, {
+  "languageId": 8,
+  "languageName": "Konkani"
+}, {
+  "languageId": 9,
+  "languageName": "Bengali"
+}, {
+  "languageId": 10,
+  "languageName": "Marathi"
+}, {
+  "languageId": 11,
+  "languageName": "Gujarati"
+}, {
+  "languageId": 12,
+  "languageName": "Odia"
+}, {
+  "languageId": 13,
+  "languageName": "Punjabi"
+}, {
+  "languageId": 14,
+  "languageName": "Assamese"
+}, {
+  "languageId": 15,
+  "languageName": "Maithili"
+}, {
+  "languageId": 16,
+  "languageName": "Bhili/Bhilodi"
+}, {
+  "languageId": 17,
+  "languageName": "Santali"
+}, {
+  "languageId": 18,
+  "languageName": "Kashmiri"
+}, {
+  "languageId": 19,
+  "languageName": "Nepali"
+}, {
+  "languageId": 20,
+  "languageName": "Gondi"
+}, {
+  "languageId": 21,
+  "languageName": "Sindhi"
+}, {
+  "languageId": 22,
+  "languageName": "Urdu"
+}]

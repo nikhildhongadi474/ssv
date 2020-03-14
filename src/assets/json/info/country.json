@@ -1,0 +1,513 @@
+[{
+  "countryId": 1,
+  "countryName": "India",
+  "states": [{
+    "stateId": 201,
+    "stateName": "Andra Pradesh",
+    "countryId": 1
+  }, {
+    "stateId": 202,
+    "stateName": "Arunachal Pradesh",
+    "countryId": 1
+  }, {
+    "stateId": 203,
+    "stateName": "Assam",
+    "countryId": 1
+  }, {
+    "stateId": 204,
+    "stateName": "Bihar",
+    "countryId": 1
+  }, {
+    "stateId": 205,
+    "stateName": "Chhattisgarh",
+    "countryId": 1
+  }, {
+    "stateId": 206,
+    "stateName": "Goa",
+    "countryId": 1
+  }, {
+    "stateId": 207,
+    "stateName": "Gujarat",
+    "countryId": 1
+  }, {
+    "stateId": 208,
+    "stateName": "Haryana",
+    "countryId": 1
+  }, {
+    "stateId": 209,
+    "stateName": "Himachal Pradesh",
+    "countryId": 1
+  }, {
+    "stateId": 210,
+    "stateName": "Jammu and Kashmir",
+    "countryId": 1
+  }, {
+    "stateId": 211,
+    "stateName": "Jharkhand",
+    "countryId": 1
+  }, {
+    "stateId": 212,
+    "stateName": "Karnataka",
+    "countryId": 1
+  }, {
+    "stateId": 213,
+    "stateName": "Kerala",
+    "countryId": 1
+  }, {
+    "stateId": 214,
+    "stateName": "Madya Pradesh",
+    "countryId": 1
+  }, {
+    "stateId": 215,
+    "stateName": "Maharashtra",
+    "countryId": 1
+  }, {
+    "stateId": 216,
+    "stateName": "Manipur",
+    "countryId": 1
+  }, {
+    "stateId": 217,
+    "stateName": "Meghalaya",
+    "countryId": 1
+  }, {
+    "stateId": 218,
+    "stateName": "Mizoram",
+    "countryId": 1
+  }, {
+    "stateId": 219,
+    "stateName": "Nagaland",
+    "countryId": 1
+  }, {
+    "stateId": 220,
+    "stateName": "Orissa",
+    "countryId": 1
+  }, {
+    "stateId": 221,
+    "stateName": "Punjab",
+    "countryId": 1
+  }, {
+    "stateId": 222,
+    "stateName": "Rajasthan",
+    "countryId": 1
+  }, {
+    "stateId": 223,
+    "stateName": "Sikkim",
+    "countryId": 1
+  }, {
+    "stateId": 224,
+    "stateName": "Tamil Nadu",
+    "countryId": 1
+  }, {
+    "stateId": 225,
+    "stateName": "Tripura",
+    "countryId": 1
+  }, {
+    "stateId": 226,
+    "stateName": "Uttaranchal",
+    "countryId": 1
+  }, {
+    "stateId": 227,
+    "stateName": "Uttar Pradesh",
+    "countryId": 1
+  }, {
+    "stateId": 228,
+    "stateName": "West Bengal",
+    "countryId": 1
+  }, {
+    "stateId": 229,
+    "stateName": "Andaman and Nicobar Islands",
+    "countryId": 1
+  }, {
+    "stateId": 230,
+    "stateName": "Chandigarh",
+    "countryId": 1
+  }, {
+    "stateId": 231,
+    "stateName": "Dadar and Nagar Haveli",
+    "countryId": 1
+  }, {
+    "stateId": 232,
+    "stateName": "Daman and Diu",
+    "countryId": 1
+  }, {
+    "stateId": 233,
+    "stateName": "Delhi",
+    "countryId": 1
+  }, {
+    "stateId": 234,
+    "stateName": "Lakshadeep",
+    "countryId": 1
+  }, {
+    "stateId": 235,
+    "stateName": "Pondicherry",
+    "countryId": 1
+  }]
+}, {
+  "countryId": 2,
+  "countryName": "United States of America",
+  "states": [{
+    "stateId": 236,
+    "stateName": "Alabama",
+    "countryId": 2
+  }, {
+    "stateId": 237,
+    "stateName": "Alaska",
+    "countryId": 2
+  }, {
+    "stateId": 238,
+    "stateName": "Arizona",
+    "countryId": 2
+  }, {
+    "stateId": 239,
+    "stateName": "Arkansas",
+    "countryId": 2
+  }, {
+    "stateId": 240,
+    "stateName": "California",
+    "countryId": 2
+  }, {
+    "stateId": 241,
+    "stateName": "Colorado",
+    "countryId": 2
+  }, {
+    "stateId": 242,
+    "stateName": "Connecticut",
+    "countryId": 2
+  }, {
+    "stateId": 243,
+    "stateName": "Delaware",
+    "countryId": 2
+  }, {
+    "stateId": 244,
+    "stateName": "Florida",
+    "countryId": 2
+  }, {
+    "stateId": 245,
+    "stateName": "Georgia",
+    "countryId": 2
+  }, {
+    "stateId": 246,
+    "stateName": "Hawaii",
+    "countryId": 2
+  }, {
+    "stateId": 247,
+    "stateName": "Idaho",
+    "countryId": 2
+  }, {
+    "stateId": 248,
+    "stateName": "Illinois Indiana",
+    "countryId": 2
+  }, {
+    "stateId": 249,
+    "stateName": "Iowa",
+    "countryId": 2
+  }, {
+    "stateId": 250,
+    "stateName": "Kansas",
+    "countryId": 2
+  }, {
+    "stateId": 251,
+    "stateName": "Kentucky",
+    "countryId": 2
+  }, {
+    "stateId": 252,
+    "stateName": "Louisiana",
+    "countryId": 2
+  }, {
+    "stateId": 253,
+    "stateName": "Maine",
+    "countryId": 2
+  }, {
+    "stateId": 254,
+    "stateName": "Maryland",
+    "countryId": 2
+  }, {
+    "stateId": 255,
+    "stateName": "Massachusetts",
+    "countryId": 2
+  }, {
+    "stateId": 256,
+    "stateName": "Michigan",
+    "countryId": 2
+  }, {
+    "stateId": 257,
+    "stateName": "Minnesota",
+    "countryId": 2
+  }, {
+    "stateId": 258,
+    "stateName": "Mississippi",
+    "countryId": 2
+  }, {
+    "stateId": 259,
+    "stateName": "Missouri",
+    "countryId": 2
+  }, {
+    "stateId": 260,
+    "stateName": "Montana Nebraska",
+    "countryId": 2
+  }, {
+    "stateId": 261,
+    "stateName": "Nevada",
+    "countryId": 2
+  }, {
+    "stateId": 262,
+    "stateName": "New Hampshire",
+    "countryId": 2
+  }, {
+    "stateId": 263,
+    "stateName": "New Jersey",
+    "countryId": 2
+  }, {
+    "stateId": 264,
+    "stateName": "New Mexico",
+    "countryId": 2
+  }, {
+    "stateId": 265,
+    "stateName": "New York",
+    "countryId": 2
+  }, {
+    "stateId": 266,
+    "stateName": "North Carolina",
+    "countryId": 2
+  }, {
+    "stateId": 267,
+    "stateName": "North Dakota",
+    "countryId": 2
+  }, {
+    "stateId": 268,
+    "stateName": "Ohio",
+    "countryId": 2
+  }, {
+    "stateId": 269,
+    "stateName": "Oklahoma",
+    "countryId": 2
+  }, {
+    "stateId": 270,
+    "stateName": "Oregon",
+    "countryId": 2
+  }, {
+    "stateId": 271,
+    "stateName": "Pennsylvania Rhode Island",
+    "countryId": 2
+  }, {
+    "stateId": 272,
+    "stateName": "South Carolina",
+    "countryId": 2
+  }, {
+    "stateId": 273,
+    "stateName": "South Dakota",
+    "countryId": 2
+  }, {
+    "stateId": 274,
+    "stateName": "Tennessee",
+    "countryId": 2
+  }, {
+    "stateId": 275,
+    "stateName": "Texas",
+    "countryId": 2
+  }, {
+    "stateId": 276,
+    "stateName": "Utah",
+    "countryId": 2
+  }, {
+    "stateId": 277,
+    "stateName": "Vermont",
+    "countryId": 2
+  }, {
+    "stateId": 278,
+    "stateName": "Virginia",
+    "countryId": 2
+  }, {
+    "stateId": 279,
+    "stateName": "Washington",
+    "countryId": 2
+  }, {
+    "stateId": 280,
+    "stateName": "West Virginia",
+    "countryId": 2
+  }, {
+    "stateId": 281,
+    "stateName": "Wisconsin",
+    "countryId": 2
+  }, {
+    "stateId": 282,
+    "stateName": "Wyoming",
+    "countryId": 2
+  }]
+}, {
+  "countryId": 3,
+  "countryName": "Canada",
+  "states": [{
+    "stateId": 283,
+    "stateName": "Alberta",
+    "countryId": 3
+  }, {
+    "stateId": 284,
+    "stateName": "British Columbia",
+    "countryId": 3
+  }, {
+    "stateId": 285,
+    "stateName": "Manitoba",
+    "countryId": 3
+  }, {
+    "stateId": 286,
+    "stateName": "New Brunswick",
+    "countryId": 3
+  }, {
+    "stateId": 287,
+    "stateName": "Newfoundland",
+    "countryId": 3
+  }, {
+    "stateId": 288,
+    "stateName": "Nova Scotia",
+    "countryId": 3
+  }, {
+    "stateId": 289,
+    "stateName": "Northwest",
+    "countryId": 3
+  }, {
+    "stateId": 290,
+    "stateName": "Nunavut",
+    "countryId": 3
+  }, {
+    "stateId": 291,
+    "stateName": "Ontario",
+    "countryId": 3
+  }, {
+    "stateId": 292,
+    "stateName": "Prince Edward Island",
+    "countryId": 3
+  }, {
+    "stateId": 293,
+    "stateName": "Quebec",
+    "countryId": 3
+  }, {
+    "stateId": 294,
+    "stateName": "Saskatchewan",
+    "countryId": 3
+  }, {
+    "stateId": 295,
+    "stateName": "Yukon",
+    "countryId": 3
+  }]
+}, {
+  "countryId": 4,
+  "countryName": "United Kingdom",
+  "states": []
+}, {
+  "countryId": 5,
+  "countryName": "Australia",
+  "states": [{
+    "stateId": 296,
+    "stateName": "New South Wales",
+    "countryId": 5
+  }, {
+    "stateId": 297,
+    "stateName": "Queensland",
+    "countryId": 5
+  }, {
+    "stateId": 298,
+    "stateName": "South Australia",
+    "countryId": 5
+  }, {
+    "stateId": 299,
+    "stateName": "Tasmania",
+    "countryId": 5
+  }, {
+    "stateId": 300,
+    "stateName": "Victoria",
+    "countryId": 5
+  }, {
+    "stateId": 301,
+    "stateName": "Western Australia",
+    "countryId": 5
+  }, {
+    "stateId": 302,
+    "stateName": "Australian Capital Territory",
+    "countryId": 5
+  }, {
+    "stateId": 303,
+    "stateName": "Northern Territory",
+    "countryId": 5
+  }]
+}, {
+  "countryId": 6,
+  "countryName": "Singapore",
+  "states": []
+}, {
+  "countryId": 7,
+  "countryName": "Malaysia",
+  "states": []
+}, {
+  "countryId": 8,
+  "countryName": "United Arab",
+  "states": []
+}, {
+  "countryId": 9,
+  "countryName": "New Zealand",
+  "states": []
+}, {
+  "countryId": 10,
+  "countryName": "Germany",
+  "states": []
+}, {
+  "countryId": 11,
+  "countryName": "France",
+  "states": []
+}, {
+  "countryId": 12,
+  "countryName": "Ireland",
+  "states": []
+}, {
+  "countryId": 13,
+  "countryName": "Finland",
+  "states": []
+}, {
+  "countryId": 14,
+  "countryName": "Switzerland",
+  "states": []
+}, {
+  "countryId": 15,
+  "countryName": "Netherlands",
+  "states": []
+}, {
+  "countryId": 16,
+  "countryName": "Sweden",
+  "states": []
+}, {
+  "countryId": 17,
+  "countryName": "Iceland",
+  "states": []
+}, {
+  "countryId": 18,
+  "countryName": "Japan",
+  "states": []
+}, {
+  "countryId": 19,
+  "countryName": "Kenya",
+  "states": []
+}, {
+  "countryId": 20,
+  "countryName": "South Africa",
+  "states": []
+}, {
+  "countryId": 21,
+  "countryName": "West Indies",
+  "states": []
+}, {
+  "countryId": 22,
+  "countryName": "Russia",
+  "states": []
+}, {
+  "countryId": 23,
+  "countryName": "China",
+  "states": []
+}, {
+  "countryId": 24,
+  "countryName": "Hong Kong",
+  "states": []
+}, {
+  "countryId": 25,
+  "countryName": "Other",
+  "states": []
+}]

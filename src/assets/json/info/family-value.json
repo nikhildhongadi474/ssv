@@ -1,0 +1,13 @@
+[{
+  "familyValueId": 1,
+  "familyValueDesc": "Orthodox"
+}, {
+  "familyValueId": 2,
+  "familyValueDesc": "Traditional"
+}, {
+  "familyValueId": 3,
+  "familyValueDesc": "Moderate"
+}, {
+  "familyValueId": 4,
+  "familyValueDesc": "Liberal"
+}]

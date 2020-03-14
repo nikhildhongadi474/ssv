@@ -1,0 +1,217 @@
+[{
+  "occupationId": 1,
+  "occupationName": "Accounts/Finance Professional"
+}, {
+  "occupationId": 2,
+  "occupationName": "Acting Professional"
+}, {
+  "occupationId": 3,
+  "occupationName": "Administrative Professional"
+}, {
+  "occupationId": 4,
+  "occupationName": "Advertising / PR Professional"
+}, {
+  "occupationId": 5,
+  "occupationName": "Agriculture & Farming Professional"
+}, {
+  "occupationId": 6,
+  "occupationName": "Air Hostess"
+}, {
+  "occupationId": 7,
+  "occupationName": "Airforce"
+}, {
+  "occupationId": 8,
+  "occupationName": "Airline Professional"
+}, {
+  "occupationId": 9,
+  "occupationName": "Architect"
+}, {
+  "occupationId": 10,
+  "occupationName": "Army"
+}, {
+  "occupationId": 11,
+  "occupationName": "Arts & Craftsman"
+}, {
+  "occupationId": 12,
+  "occupationName": "Auditor"
+}, {
+  "occupationId": 13,
+  "occupationName": "Banking Service Professional"
+}, {
+  "occupationId": 14,
+  "occupationName": "Beautician"
+}, {
+  "occupationId": 15,
+  "occupationName": "Biologist / Botanist"
+}, {
+  "occupationId": 16,
+  "occupationName": "Business Person"
+}, {
+  "occupationId": 17,
+  "occupationName": "CXO / President, Director, Chairman"
+}, {
+  "occupationId": 18,
+  "occupationName": "Chartered Accountant"
+}, {
+  "occupationId": 19,
+  "occupationName": "Civil Services (IAS/IPS/IRS/IES/IFS)"
+}, {
+  "occupationId": 20,
+  "occupationName": "Clerk"
+}, {
+  "occupationId": 21,
+  "occupationName": "Company Secretary"
+}, {
+  "occupationId": 22,
+  "occupationName": "Consultant"
+}, {
+  "occupationId": 23,
+  "occupationName": "Customer Care Professional"
+}, {
+  "occupationId": 24,
+  "occupationName": "Contractor"
+}, {
+  "occupationId": 25,
+  "occupationName": "Defence Services"
+}, {
+  "occupationId": 26,
+  "occupationName": "Doctor"
+}, {
+  "occupationId": 27,
+  "occupationName": "Education Professional"
+}, {
+  "occupationId": 28,
+  "occupationName": "Engineer - Non IT"
+}, {
+  "occupationId": 29,
+  "occupationName": "Entertainment Professional"
+}, {
+  "occupationId": 30,
+  "occupationName": "Event Management Professional"
+}, {
+  "occupationId": 31,
+  "occupationName": "Executive"
+}, {
+  "occupationId": 32,
+  "occupationName": "Fashion Designer"
+}, {
+  "occupationId": 33,
+  "occupationName": "Factory worker"
+}, {
+  "occupationId": 34,
+  "occupationName": "Government Employee"
+}, {
+  "occupationId": 35,
+  "occupationName": "Hardware Professional"
+}, {
+  "occupationId": 36,
+  "occupationName": "Health Care Professional"
+}, {
+  "occupationId": 37,
+  "occupationName": "Hotel / Hospitality Professional"
+}, {
+  "occupationId": 38,
+  "occupationName": "Interior Designer"
+}, {
+  "occupationId": 39,
+  "occupationName": "Journalist"
+}, {
+  "occupationId": 40,
+  "occupationName": "Law Enforcement Officer"
+}, {
+  "occupationId": 41,
+  "occupationName": "Lawyer & Legal Professional"
+}, {
+  "occupationId": 42,
+  "occupationName": "Manager"
+}, {
+  "occupationId": 43,
+  "occupationName": "Mariner / Merchant Navy"
+}, {
+  "occupationId": 44,
+  "occupationName": "Marketing Professional"
+}, {
+  "occupationId": 45,
+  "occupationName": "Media Professional"
+}, {
+  "occupationId": 46,
+  "occupationName": "Navy"
+}, {
+  "occupationId": 47,
+  "occupationName": "Nurse"
+}, {
+  "occupationId": 48,
+  "occupationName": "Officer"
+}, {
+  "occupationId": 49,
+  "occupationName": "Paramedical Professional"
+}, {
+  "occupationId": 50,
+  "occupationName": "Pilot"
+}, {
+  "occupationId": 51,
+  "occupationName": "Professor / Lecturer"
+}, {
+  "occupationId": 52,
+  "occupationName": "Pharmacist"
+}, {
+  "occupationId": 53,
+  "occupationName": "Production professional"
+}, {
+  "occupationId": 54,
+  "occupationName": "Private Employee"
+}, {
+  "occupationId": 55,
+  "occupationName": "Real Estate Profession"
+}, {
+  "occupationId": 56,
+  "occupationName": "Research Scholar"
+}, {
+  "occupationId": 57,
+  "occupationName": "Sales Professional"
+}, {
+  "occupationId": 58,
+  "occupationName": "Scientist / Researcher"
+}, {
+  "occupationId": 59,
+  "occupationName": "Social Worker"
+}, {
+  "occupationId": 60,
+  "occupationName": "Software Professional"
+}, {
+  "occupationId": 61,
+  "occupationName": "Sportsman"
+}, {
+  "occupationId": 62,
+  "occupationName": "Supervisor"
+}, {
+  "occupationId": 63,
+  "occupationName": "Student"
+}, {
+  "occupationId": 64,
+  "occupationName": "Teaching / Academician"
+}, {
+  "occupationId": 65,
+  "occupationName": "Technician"
+}, {
+  "occupationId": 66,
+  "occupationName": "Transport Profession"
+}, {
+  "occupationId": 67,
+  "occupationName": "Not working"
+}, {
+  "occupationId": 68,
+  "occupationName": "Others"
+}, {
+  "occupationId": 69,
+  "occupationName": "Retired Govt Employee"
+}, {
+  "occupationId": 70,
+  "occupationName": "Retired Employee"
+}, {
+  "occupationId": 71,
+  "occupationName": "House Wife"
+}, {
+  "occupationId": 72,
+  "occupationName": "Self Employed"
+}]

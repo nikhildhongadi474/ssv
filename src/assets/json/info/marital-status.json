@@ -1,0 +1,19 @@
+[{
+  "maritalStatusId": 1,
+  "msName": "Never Married"
+}, {
+  "maritalStatusId": 2,
+  "msName": "Widow/Widower"
+}, {
+  "maritalStatusId": 3,
+  "msName": "Separated"
+}, {
+  "maritalStatusId": 4,
+  "msName": "Divorcee"
+}, {
+  "maritalStatusId": 5,
+  "msName": "Awaiting Divorce"
+}, {
+  "maritalStatusId": 6,
+  "msName": "Married"
+}]

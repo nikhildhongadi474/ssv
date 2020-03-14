@@ -1,0 +1,413 @@
+[{
+  "educationLevelId": 1,
+  "educationLevelDesc": "Bachelors in Engineering / Computers",
+  "degrees": [{
+    "degreeId": 201,
+    "degreeName": "Aeronautical Engineering",
+    "educationLevelId": 1
+  }, {
+    "degreeId": 202,
+    "degreeName": "B.Arch",
+    "educationLevelId": 1
+  }, {
+    "degreeId": 203,
+    "degreeName": "BCA",
+    "educationLevelId": 1
+  }, {
+    "degreeId": 204,
+    "degreeName": "BE",
+    "educationLevelId": 1
+  }, {
+    "degreeId": 205,
+    "degreeName": "B.Plan",
+    "educationLevelId": 1
+  }, {
+    "degreeId": 206,
+    "degreeName": "B.Sc IT/Computer Science",
+    "educationLevelId": 1
+  }, {
+    "degreeId": 207,
+    "degreeName": "B.Tech.",
+    "educationLevelId": 1
+  }]
+}, {
+  "educationLevelId": 2,
+  "educationLevelDesc": "Masters in Engineering / Computers",
+  "degrees": [{
+    "degreeId": 208,
+    "degreeName": "Other Bachelor Degree in Engineering / Computers",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 209,
+    "degreeName": "M.Arch.",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 210,
+    "degreeName": "MCA",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 211,
+    "degreeName": "ME",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 212,
+    "degreeName": "M.Sc. IT / Computer Science",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 213,
+    "degreeName": "M.S.(Engg.)",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 214,
+    "degreeName": "M.Tech.",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 215,
+    "degreeName": "PGDCA",
+    "educationLevelId": 2
+  }, {
+    "degreeId": 216,
+    "degreeName": "Other Masters Degree in Engineering / Computers",
+    "educationLevelId": 2
+  }]
+}, {
+  "educationLevelId": 3,
+  "educationLevelDesc": "Bachelors in Arts / Science / Commerce",
+  "degrees": [{
+    "degreeId": 217,
+    "degreeName": "Aviation Degree",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 218,
+    "degreeName": "B.A.",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 219,
+    "degreeName": "B.Com.",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 220,
+    "degreeName": "B.Ed.",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 221,
+    "degreeName": "BFA",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 222,
+    "degreeName": "BFT",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 223,
+    "degreeName": "BLIS",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 224,
+    "degreeName": "B.M.M.",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 225,
+    "degreeName": "B.Sc.",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 226,
+    "degreeName": "B.S.W",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 227,
+    "degreeName": "B.Phil.",
+    "educationLevelId": 3
+  }, {
+    "degreeId": 228,
+    "degreeName": "Other Bachelor Degree in Arts / Science / Commerce",
+    "educationLevelId": 3
+  }]
+}, {
+  "educationLevelId": 4,
+  "educationLevelDesc": "Masters in Arts / Science / Commerce",
+  "degrees": [{
+    "degreeId": 229,
+    "degreeName": "M.A.",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 230,
+    "degreeName": "MCom",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 231,
+    "degreeName": "M.Ed.",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 232,
+    "degreeName": "MFA",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 233,
+    "degreeName": "MLIS",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 234,
+    "degreeName": "M.Sc.",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 235,
+    "degreeName": "MSW",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 236,
+    "degreeName": "M.Phil.",
+    "educationLevelId": 4
+  }, {
+    "degreeId": 237,
+    "degreeName": "Other Master Degree in Arts / Science / Commerce",
+    "educationLevelId": 4
+  }]
+}, {
+  "educationLevelId": 5,
+  "educationLevelDesc": "Bachelors in Management",
+  "degrees": [{
+    "degreeId": 238,
+    "degreeName": "BBA",
+    "educationLevelId": 5
+  }, {
+    "degreeId": 239,
+    "degreeName": "BFM (Financial Management)",
+    "educationLevelId": 5
+  }, {
+    "degreeId": 240,
+    "degreeName": "BHM (Hotel Management)",
+    "educationLevelId": 5
+  }, {
+    "degreeId": 241,
+    "degreeName": "Other Bachelor Degree in Management",
+    "educationLevelId": 5
+  }]
+}, {
+  "educationLevelId": 6,
+  "educationLevelDesc": "Masters in Management",
+  "degrees": [{
+    "degreeId": 242,
+    "degreeName": "MBA",
+    "educationLevelId": 6
+  }, {
+    "degreeId": 243,
+    "degreeName": "MFM (Financial Management)",
+    "educationLevelId": 6
+  }, {
+    "degreeId": 244,
+    "degreeName": "MHM  (Hotel Management)",
+    "educationLevelId": 6
+  }, {
+    "degreeId": 245,
+    "degreeName": "MHRM (Human Resource Management)",
+    "educationLevelId": 6
+  }, {
+    "degreeId": 246,
+    "degreeName": "PGDM",
+    "educationLevelId": 6
+  }, {
+    "degreeId": 247,
+    "degreeName": "Other Master Degree in Management",
+    "educationLevelId": 6
+  }]
+}, {
+  "educationLevelId": 7,
+  "educationLevelDesc": "Bachelors in Medicine in General / Dental / Surgeon",
+  "degrees": [{
+    "degreeId": 248,
+    "degreeName": "B.A.M.S.",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 249,
+    "degreeName": "BDS",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 250,
+    "degreeName": "BHMS",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 251,
+    "degreeName": "BSMS",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 252,
+    "degreeName": "BPharm",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 253,
+    "degreeName": "BPT",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 254,
+    "degreeName": "BUMS",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 255,
+    "degreeName": "BVSc",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 256,
+    "degreeName": "MBBS",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 257,
+    "degreeName": "B.Sc. Nursing",
+    "educationLevelId": 7
+  }, {
+    "degreeId": 258,
+    "degreeName": "Other Bachelor Degree in Medicine",
+    "educationLevelId": 7
+  }]
+}, {
+  "educationLevelId": 8,
+  "educationLevelDesc": "Masters in Medicine - General / Dental / Surgeon",
+  "degrees": [{
+    "degreeId": 259,
+    "degreeName": "MDS",
+    "educationLevelId": 8
+  }, {
+    "degreeId": 260,
+    "degreeName": "MD / MS (Medical)",
+    "educationLevelId": 8
+  }, {
+    "degreeId": 261,
+    "degreeName": "M.Pharm",
+    "educationLevelId": 8
+  }, {
+    "degreeId": 262,
+    "degreeName": "MPT",
+    "educationLevelId": 8
+  }, {
+    "degreeId": 263,
+    "degreeName": "MVSc",
+    "educationLevelId": 8
+  }, {
+    "degreeId": 264,
+    "degreeName": "Other Master Degree in Medicine",
+    "educationLevelId": 8
+  }]
+}, {
+  "educationLevelId": 9,
+  "educationLevelDesc": "Bachelors in Legal",
+  "degrees": [{
+    "degreeId": 265,
+    "degreeName": "BGL",
+    "educationLevelId": 9
+  }, {
+    "degreeId": 266,
+    "degreeName": "B.L.",
+    "educationLevelId": 9
+  }, {
+    "degreeId": 267,
+    "degreeName": "LL.B.",
+    "educationLevelId": 9
+  }, {
+    "degreeId": 268,
+    "degreeName": "Other Bachelor Degree in Legal",
+    "educationLevelId": 9
+  }]
+}, {
+  "educationLevelId": 10,
+  "educationLevelDesc": "Masters in Legal",
+  "degrees": [{
+    "degreeId": 269,
+    "degreeName": "LL.M.",
+    "educationLevelId": 10
+  }, {
+    "degreeId": 270,
+    "degreeName": "M.L.",
+    "educationLevelId": 10
+  }, {
+    "degreeId": 271,
+    "degreeName": "Other Master Degree in  Legal",
+    "educationLevelId": 10
+  }]
+}, {
+  "educationLevelId": 11,
+  "educationLevelDesc": "Financial Qualification - ICWAI / CA / CS/ CFA",
+  "degrees": [{
+    "degreeId": 272,
+    "degreeName": "CA",
+    "educationLevelId": 11
+  }, {
+    "degreeId": 273,
+    "degreeName": "CFA (Chartered Financial Analyst)",
+    "educationLevelId": 11
+  }, {
+    "degreeId": 274,
+    "degreeName": "CS",
+    "educationLevelId": 11
+  }, {
+    "degreeId": 275,
+    "degreeName": "ICWA",
+    "educationLevelId": 11
+  }, {
+    "degreeId": 276,
+    "degreeName": "Other Degree in Finance",
+    "educationLevelId": 11
+  }]
+}, {
+  "educationLevelId": 12,
+  "educationLevelDesc": "Service - IAS / IPS / IRS / IES / IFS ",
+  "degrees": [{
+    "degreeId": 277,
+    "degreeName": "IAS",
+    "educationLevelId": 12
+  }, {
+    "degreeId": 278,
+    "degreeName": "IES",
+    "educationLevelId": 12
+  }, {
+    "degreeId": 279,
+    "degreeName": "IFS",
+    "educationLevelId": 12
+  }, {
+    "degreeId": 280,
+    "degreeName": "IRS",
+    "educationLevelId": 12
+  }, {
+    "degreeId": 281,
+    "degreeName": "IPS",
+    "educationLevelId": 12
+  }, {
+    "degreeId": 282,
+    "degreeName": "Other Degree in Service",
+    "educationLevelId": 12
+  }]
+}, {
+  "educationLevelId": 13,
+  "educationLevelDesc": "Ph.D.",
+  "degrees": [{
+    "degreeId": 283,
+    "degreeName": "Ph.D.",
+    "educationLevelId": 13
+  }]
+}, {
+  "educationLevelId": 14,
+  "educationLevelDesc": "Diploma",
+  "degrees": [{
+    "degreeId": 284,
+    "degreeName": "Diploma",
+    "educationLevelId": 14
+  }, {
+    "degreeId": 285,
+    "degreeName": "Polytechnic",
+    "educationLevelId": 14
+  }, {
+    "degreeId": 286,
+    "degreeName": "Trade School",
+    "educationLevelId": 14
+  }, {
+    "degreeId": 287,
+    "degreeName": "Others in Diploma",
+    "educationLevelId": 14
+  }]
+}, {
+  "educationLevelId": 15,
+  "educationLevelDesc": "Higher Secondary / Secondary",
+  "degrees": [{
+    "degreeId": 288,
+    "degreeName": "Higher Secondary School / High School",
+    "educationLevelId": 15
+  }]
+}]

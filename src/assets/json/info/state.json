@@ -1,0 +1,141 @@
+[{
+  "stateId": 1,
+  "stateName": "Karnataka",
+  "countryId": 1
+}, {
+  "stateId": 2,
+  "stateName": "Arunachal Pradesh",
+  "countryId": 1
+}, {
+  "stateId": 3,
+  "stateName": "Assam",
+  "countryId": 1
+}, {
+  "stateId": 4,
+  "stateName": "Bihar",
+  "countryId": 1
+}, {
+  "stateId": 5,
+  "stateName": "Chhattisgarh",
+  "countryId": 1
+}, {
+  "stateId": 6,
+  "stateName": "Goa",
+  "countryId": 1
+}, {
+  "stateId": 7,
+  "stateName": "Gujarat",
+  "countryId": 1
+}, {
+  "stateId": 8,
+  "stateName": "Haryana",
+  "countryId": 1
+}, {
+  "stateId": 9,
+  "stateName": "Himachal Pradesh",
+  "countryId": 1
+}, {
+  "stateId": 10,
+  "stateName": "Jammu and Kashmir",
+  "countryId": 1
+}, {
+  "stateId": 11,
+  "stateName": "Jharkhand",
+  "countryId": 1
+}, {
+  "stateId": 12,
+  "stateName": "Andra Pradesh",
+  "countryId": 1
+}, {
+  "stateId": 13,
+  "stateName": "Kerala",
+  "countryId": 1
+}, {
+  "stateId": 14,
+  "stateName": "Madya Pradesh",
+  "countryId": 1
+}, {
+  "stateId": 15,
+  "stateName": "Maharashtra",
+  "countryId": 1
+}, {
+  "stateId": 16,
+  "stateName": "Manipur",
+  "countryId": 1
+}, {
+  "stateId": 17,
+  "stateName": "Meghalaya",
+  "countryId": 1
+}, {
+  "stateId": 18,
+  "stateName": "Mizoram",
+  "countryId": 1
+}, {
+  "stateId": 19,
+  "stateName": "Nagaland",
+  "countryId": 1
+}, {
+  "stateId": 20,
+  "stateName": "Orissa",
+  "countryId": 1
+}, {
+  "stateId": 21,
+  "stateName": "Punjab",
+  "countryId": 1
+}, {
+  "stateId": 22,
+  "stateName": "Rajasthan",
+  "countryId": 1
+}, {
+  "stateId": 23,
+  "stateName": "Sikkim",
+  "countryId": 1
+}, {
+  "stateId": 24,
+  "stateName": "Tamil Nadu",
+  "countryId": 1
+}, {
+  "stateId": 25,
+  "stateName": "Tripura",
+  "countryId": 1
+}, {
+  "stateId": 26,
+  "stateName": "Uttaranchal",
+  "countryId": 1
+}, {
+  "stateId": 27,
+  "stateName": "Uttar Pradesh",
+  "countryId": 1
+}, {
+  "stateId": 28,
+  "stateName": "West Bengal",
+  "countryId": 1
+}, {
+  "stateId": 29,
+  "stateName": "Andaman and Nicobar Islands",
+  "countryId": 1
+}, {
+  "stateId": 30,
+  "stateName": "Chandigarh",
+  "countryId": 1
+}, {
+  "stateId": 31,
+  "stateName": "Dadar and Nagar Haveli",
+  "countryId": 1
+}, {
+  "stateId": 32,
+  "stateName": "Daman and Diu",
+  "countryId": 1
+}, {
+  "stateId": 33,
+  "stateName": "Delhi",
+  "countryId": 1
+}, {
+  "stateId": 34,
+  "stateName": "Lakshadeep",
+  "countryId": 1
+}, {
+  "stateId": 35,
+  "stateName": "Pondicherry",
+  "countryId": 1
+}]

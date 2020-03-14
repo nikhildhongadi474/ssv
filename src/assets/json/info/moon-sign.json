@@ -1,0 +1,37 @@
+[{
+  "moonSignId": 1,
+  "moonSignName": "Mesha(Aries)"
+}, {
+  "moonSignId": 2,
+  "moonSignName": "Vrishabha(Taurus)"
+}, {
+  "moonSignId": 3,
+  "moonSignName": "Mithuna(Gemini)"
+}, {
+  "moonSignId": 4,
+  "moonSignName": "Karkataka(Cancer)"
+}, {
+  "moonSignId": 5,
+  "moonSignName": "Simha(Leo)"
+}, {
+  "moonSignId": 6,
+  "moonSignName": "Kanya(Virgo)"
+}, {
+  "moonSignId": 7,
+  "moonSignName": "Tula(Libra)"
+}, {
+  "moonSignId": 8,
+  "moonSignName": "Vrischika(Scorpio)"
+}, {
+  "moonSignId": 9,
+  "moonSignName": "Dhanu(Sagittarious)"
+}, {
+  "moonSignId": 10,
+  "moonSignName": "Makara(Capricorn)"
+}, {
+  "moonSignId": 11,
+  "moonSignName": "Kumba(Aquarious)"
+}, {
+  "moonSignId": 12,
+  "moonSignName": "Meen(Pisces)"
+}]
