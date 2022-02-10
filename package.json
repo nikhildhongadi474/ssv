@@ -14,7 +14,7 @@
     "jquery": "^3.3.1",
     "luxon": "^1.10.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "sweetalert2": "^8.7.0",
     "v-tooltip": "^2.0.0-rc.33",
@@ -41,7 +41,7 @@
     "@vue/cli-service": "^3.5.2",
     "eslint": "^5.9.0",
     "eslint-plugin-vue": "^5.0.0-beta.5",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.17",
     "webpack": "^4.29.6"
