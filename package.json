@@ -38,7 +38,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
     "@vue/cli-plugin-eslint": "^3.2.1",
-    "@vue/cli-service": "^3.5.2",
+    "@vue/cli-service": "^5.0.8",
     "eslint": "^5.9.0",
     "eslint-plugin-vue": "^5.0.0-beta.5",
     "node-sass": "^4.11.0",
